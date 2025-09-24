@@ -1,6 +1,6 @@
 {
   "icons": {
-    "16": "ohh-thats-right.png"
+    "16": "images/ohh-thats-right.png"
   },
   "manifest_version": 3,
   "name": "Do Stuff on Github",
@@ -8,7 +8,7 @@
   "description": "(It's important for your health.)",
   "action": {
       "default_popup": "index.html",
-      "default_icon": "ohh-thats-right.png"
+      "default_icon": "images/ohh-thats-right.png"
   },
   "content_scripts": [
     {
